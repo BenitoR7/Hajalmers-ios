@@ -1,0 +1,337 @@
+
+[
+  {
+    "name": "Fried Crawfish Tails",
+    "category": "Appetizers",
+    "price": "$8.95",
+    "id": 1001,
+    "description": "4oz.",
+    "imageName": "FriedCrawfishTails",
+    "isFavorite": false
+
+  },
+  {
+    "name": "Fried Pickles",
+    "category": "Appetizers",
+    "price": "$4.95",
+    "id": 1002,
+    "description": "4 spears",
+    "imageName": "FriedPickles",
+    "isFavorite": false
+  },
+  {
+    "name": "Fried Chicken Tenders",
+    "category": "Appetizers",
+    "price": "$4.95",
+    "id": 1003,
+    "description": "4 each",
+    "imageName": "FriedChickenTenders",
+    "isFavorite": false
+  },
+  {
+    "name": "Crab Cakes",
+    "category": "Appetizers",
+    "price": "$9.95",
+    "id": 1004,
+    "description": "2 each",
+    "imageName": "CrabCakes",
+    "isFavorite": false
+  },
+  {
+    "name": "Fried Rib",
+    "category": "Appetizers",
+    "price": "$6.95",
+    "id": 1005,
+    "description": "1/3 of a pound",
+    "imageName": "FriedRib",
+    "isFavorite": false
+  },
+  {
+    "name": "Boudin Balls",
+    "category": "Appetizers",
+    "price": "$4.95",
+    "id": 1006,
+    "description": "3 each",
+    "imageName": "BoudinBalls",
+    "isFavorite": false
+  },
+  {
+    "name": "Calamari",
+    "category": "Appetizers",
+    "price": "$8.95",
+    "id": 1007,
+    "description": "4 each",
+    "imageName": "Calamari",
+    "isFavorite": false
+  },
+  {
+    "name": "Baked Potatoes",
+    "category": "Sides",
+    "price": "$2.99",
+    "id": 2000,
+    "description": "",
+    "imageName": "BakedPotatoes",
+    "isFavorite": false
+  },
+  {
+    "name": "Red beans and Rice",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2001,
+    "description": "",
+    "imageName": "RedbeansandRice",
+    "isFavorite": false
+  },
+  {
+    "name": "Dirty Rice",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2002,
+    "description": "",
+    "imageName": "DirtyRice",
+    "isFavorite": false
+  },
+  {
+    "name": "Steamed Vegetables",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2003,
+    "description": "",
+    "imageName": "SteamedVegetables",
+    "isFavorite": false
+  },
+  {
+    "name": "Mac and Cheese",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2004,
+    "description": "",
+    "imageName": "MacandCheese",
+    "isFavorite": false
+  },
+  {
+    "name": "French Fries",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2005,
+    "description": "",
+    "imageName": "FrenchFries",
+    "isFavorite": false
+  },
+  {
+    "name": "Cheesy Grits",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2006,
+    "description": "",
+    "imageName": "CheesyGrits",
+    "isFavorite": false
+  },
+  {
+    "name": "Oven-Broiled Garlic New Potatoes",
+    "category": "Sides",
+    "price": "$2.50",
+    "id": 2007,
+    "description": "",
+    "imageName": "BroiledGarlicNewPotatoes",
+    "isFavorite": false
+  },
+  {
+    "name": "Hajalmer’s Seafood Gumbo",
+    "category": "Soup & Gumbo",
+    "price": "$6.95",
+    "id": 3001,
+    "description": "cup is $6.95 , bowl is $10.95",
+    "imageName": "Hajalmer’sSeafoodGumbo",
+    "isFavorite": false
+  },
+  {
+    "name": "Chicken & Sausage Gumbo",
+    "category": "Soup & Gumbo",
+    "price": "$4.95",
+    "id": 3002,
+    "description": "cup is $4.95 , bowl is $8.95",
+    "imageName": "Chicken&SausageGumbo",
+    "isFavorite": false
+  },
+  {
+    "name": "Crawfish Étouffée",
+    "category": "Soup & Gumbo",
+    "price": "$5.95",
+    "id": 3003,
+    "description": "cup is $5.95 , bowl is $9.95",
+    "imageName": "CrawfishÉtouffée",
+    "isFavorite": false
+  },
+  {
+    "name": "Shrimp Salad",
+    "category": "Salads",
+    "price": "$8.95",
+    "id": 4001,
+    "description": "",
+    "imageName": "ShrimpSalad",
+    "isFavorite": true
+  },
+  {
+    "name": "Garden Salad",
+    "category": "Salads",
+    "price": "$6.95",
+    "id": 4002,
+    "description": "",
+    "imageName": "GardenSalad",
+    "isFavorite": false
+  },
+  {
+    "name": "Side Salad",
+    "category": "Salads",
+    "price": "$2.50",
+    "id": 4003,
+    "description": "",
+    "imageName": "SideSalad",
+    "isFavorite": false
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Desserts",
+    "price": "$4.95",
+    "id": 5001,
+    "description": "",
+    "imageName": "Cheesecake",
+    "isFavorite": false
+  },
+  {
+    "name": "Chocolate Cake",
+    "category": "Desserts",
+    "price": "$4.95",
+    "id": 5002,
+    "description": "",
+    "imageName": "ChocolateCake",
+    "isFavorite": false
+  },
+  {
+    "name": "Bread Pudding ",
+    "category": "Desserts",
+    "price": "$4.95",
+    "id": 5003,
+    "description": "",
+    "imageName": "BreadPudding",
+    "isFavorite": false
+  },
+  {
+    "name": "Jumbo Fried Shrimp",
+    "category": "Entrees",
+    "price": "$41095",
+    "id": 6001,
+    "description": "Served with two sides and garlic bread.",
+    "imageName": "JumboFriedShrimp",
+    "isFavorite": false
+  },
+  {
+    "name": "Fried Frog Legs",
+    "category": "Entrees",
+    "price": "$10.99",
+    "id": 6002,
+    "description": "Served with two sides and garlic bread.",
+    "imageName": "FriedFrogLegs",
+    "isFavorite": false
+  },
+  {
+    "name": "Chicken Fried Steak",
+    "category": "Entrees",
+    "price": "$9.95",
+    "id": 6003,
+    "description": "Served with two sides and garlic bread.",
+    "imageName": "ChickenFriedSteak",
+    "isFavorite": false
+  },
+  {
+    "name": "Pan Grilled Shrimp with Grits",
+    "category": "Entrees",
+    "price": "$14.95",
+    "id": 6004,
+    "description": "Served with garlic bread.",
+    "imageName": "PanGrilledShrimpwithGrits",
+    "isFavorite": false
+  },
+  {
+    "name": "Crawfish Platter",
+    "category": "Entrees",
+    "price": "$17.95",
+    "id": 6005,
+    "description": "Half Étouffée & Dirty Rice. Served with garlic bread. ",
+    "imageName": "CrawfishPlatter",
+    "isFavorite": false
+  },
+  {
+    "name": "Crab Cakes Dinner",
+    "category": "Entrees",
+    "price": "$17.95",
+    "id": 6006,
+    "description": "Served with two sides.",
+    "imageName": "CrabCakesDinner",
+    "isFavorite": false
+  },
+  {
+    "name": "Tilapia",
+    "category": "Entrees",
+    "price": "$12.95",
+    "id": 6007,
+    "description": "Pan-Grilled with Capers & Cream Cheese Sauce or Blackened. Served with garlic bread.",
+    "imageName": "Tilapia",
+    "isFavorite": false
+  },
+  {
+    "name": "Catfish",
+    "category": "Entrees",
+    "price": "$10.95",
+    "id": 6008,
+    "description": "Fried, Pan-Grilled, or Blackened with two sides. Served with garlic bread.",
+    "imageName": "Catfish",
+    "isFavorite": false
+  },
+  {
+    "name": "Shrimp Scampi",
+    "category": "Entrees",
+    "price": "$14.95",
+    "id": 6009,
+    "description": "Shrimp Scampi-Butter Garlic Shrimp served with Pasta. Served with garlic bread.",
+    "imageName": "ShrimpScampi",
+    "isFavorite": false
+  },
+  {
+    "name": "Char Grilled Rib Eye Steak",
+    "category": "Steaks",
+    "price": "$4.95",
+    "id": 7001,
+    "description": "Served with two sides.",
+    "imageName": "CharGrilledRibEyeSteak",
+    "isFavorite": false
+  },
+  {
+    "name": "New York Strip Steak",
+    "category": "Steaks",
+    "price": "$14.95",
+    "id": 7002,
+    "description": "$14.95 for 10 oz., $22.95 for 16oz. Served with two sides.",
+    "imageName": "NewYorkStripSteak",
+    "isFavorite": false
+  },
+  {
+    "name": "Kid’s Meal",
+    "category": "Kids",
+    "price": "$4.95",
+    "id": 8001,
+    "description": "Served with Fries & Drink, Chicken Strips, Popcorn Shrimp or Catfish.",
+    "imageName": "Kid’s Meal",
+    "isFavorite": false
+  },
+  {
+    "name": "Drinks",
+    "category": "Drinks",
+    "price": "$1.69",
+    "id": 9001,
+    "description": "Fountain Drinks - Coke, Sprite, Dr.Pepper, Diet Coke, and Orange. Sweet, Unsweet Tea + Coffee. ",
+    "imageName": "Drinks",
+    "isFavorite": false
+  }
+]
